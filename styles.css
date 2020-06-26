@@ -1,0 +1,349 @@
+ html{
+     scroll-behavior: smooth; 
+ }
+ 
+ 
+ * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    
+} 
+
+body{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+   background-color: #e7e0e7; 
+   font-family: 'Rokkitt',serif;
+}
+
+.entry-div{
+    /* background-color : #e3d29b; */
+    background-color: #55bcc9;
+    /* margin-bottom: 40px; */
+    /* padding-bottom: 40px; */
+    
+}
+
+
+.navlogo{
+    width: 50px;
+height: 50px;
+}
+
+.title{
+    font-size:600% ;
+    /* padding:40px; */
+    padding: 100px 0 20px;
+    font-family : 'Great vibes',cursive;
+    /* color: #117f86; */
+    /* color: rgb(216, 135, 59); */
+}
+
+.entry-p{
+   
+    font-size:160% ;
+    font-family: Pacifico;
+    padding-bottom:0 0 50px 0 ;
+    color: rgb(9, 93, 114);
+}
+
+.navbar{
+    background-color: #fc4445;
+   /* background-color: mediumspringgreen; */
+   /* color: rgb(255, 255, 255); */
+}
+.entry-img{
+    height: 50%;
+    width: 60%;
+    padding: 20px;
+    /* padding: 0 0 40px 0; */
+}
+
+.entry-mt{
+    height: 30%;
+    width:  30%;
+}
+
+
+.intro{
+    text-align: center;
+}
+
+.intro img{
+width: 200px;
+border-radius: 50%;
+}
+
+.entry-p-intro{
+    font-family: Yanone Kaffeesatz;
+    font-size: 30px;
+}  
+
+.border{
+    border-bottom: 10px dotted rgb(0, 255, 255);
+    width: 80px;
+    display: inline-block;
+}
+
+#skills img{
+    width: 300px;
+    border-radius: 50%;
+    float: left;
+    padding: 0 20px 0;
+}
+#skills7 img{
+    padding: 0 150px;
+    /* padding-top: 100px; */
+    border-radius: 50%;
+
+}
+   
+#skills7 h1{
+    font-family: 'Pacifico',cursive;
+    text-decoration: underline;
+    font-size: 40px;
+    padding-bottom: 20px;
+    padding-top: 60px;
+}
+/* .title3{
+    font-family: 'Rokkitt',cursive;
+    font size:100%;
+    color : #000000;
+    padding: 20px;
+} */
+#abou{
+    font-family: 'Racing Sans One',cursive;
+    font-size: 40px;
+    padding-top: 80px;
+}
+.li2{
+    font-family: 'Yanone Kaffeesatz',sans-serif;
+    font-size: 30px;
+}
+.abh1{
+    color: rgb(251, 255, 0);
+    font-family: 'Pattaya',cursive !important;
+    /* font-weight: 0,500; */
+    padding-bottom: 40px;
+}
+.ps5{
+font-family: 'Leckerli One',sans-serif;
+font-size: 18px;
+color: rgb(0, 247, 255);
+padding-bottom: 28px;
+}
+.ps6{
+    padding-bottom: 0px;
+}
+#skills{
+    padding: 90px 100px;
+}
+
+#skills p{
+    font-size: 20px;
+}
+
+#skills h3{
+    font-family: 'Great vibes',cursive;
+    font-size: 50px;
+}
+
+#skills h1{
+    font-family: 'Pacifico',cursive;
+    text-decoration: underline;
+    font-size: 70px;
+}
+
+.skills-2 img{
+    width: 215px;
+    border-radius: 20%;
+    float: right;
+    
+    padding: 0 20px 0;
+}
+.skills-2 p{
+    font-size: 20px;
+}
+
+.skills-2{
+    padding: 30px 200px ;
+    margin : 50px 0 0;
+   
+}
+
+.skills-2 h3{
+    font-family: 'Great Vibes',cursive;
+    font-size: 40px;
+    
+} 
+
+.skills-3{
+    padding: 30px 200px ;
+    margin : 50px 0 0;
+}
+.skills-3 p{
+    font-size: 20px;
+}
+.li1{
+text-align: left;
+padding-left: 43%;
+text-decoration: solid;
+font-size: 20px;
+font-family: 'Oswald',sans-serif;
+}
+.li3{
+    font-family: 'Rokkitt',serif;
+    font-size:30px ;
+padding: 0 35px 0 0;
+}
+.w-100{
+    width: 60% !important;
+    height: 70%!important;
+    /* float: inline-end!important; */
+    /* padding-left: 20px; */
+}
+
+.d-block{
+display: inline-block!important;
+}
+/* .entry-g{
+    width: 700px;
+    height: 200px;
+    /* border-radius:o ; */
+    /* padding: 20px 20px 20px 20px; */
+
+.er{
+    width: 300px;
+    border-radius: 50%;
+    float: left;
+    padding: 0 20px 0;
+}
+
+.conp{
+    padding-bottom:170px  !important;
+    padding-top: 0px !important;
+}
+
+
+.skills-3 h3{
+    font-family: 'Great Vibes',cursive;
+    font-size: 40px;
+    text-align: center;
+    
+} 
+#conatct{
+    margin : 50px 0 0;
+}
+
+
+
+#contact h3{
+font-family: 'Great Vibes',fantasy;
+font-size: 40px;
+padding: 40px 0 0;
+margin:0%;
+}
+
+#contact p{
+    font-family: 'Oswald',serif;
+    font-size: 20px;
+    padding: 30px 0 0;
+}
+#footer{
+  /* bg color #3ca59d,9be3de */
+    /* margin-bottom: 10mm; */
+  background-color : #3feee6;
+    padding:50px 0 100px ;
+    background: linear-gradient(to bottom right, #3feee6 0%, #ffec99 100%);
+    
+}
+
+#footer h3{
+    font-size: 25px;
+}
+
+.icon{
+width: 63px;
+height: 63px;
+padding: 20px 20px 0 0;
+}
+.entry-p2{
+    font-size:200% ;
+    font-family:  'Galada', sans-serif;
+    padding-bottom:0 0 50px 0 ;
+    color: rgb(34, 164, 196);
+}
+
+
+hr{
+    /* color: rgb(5, 224, 231);;
+    border-width: 3px;
+    border-style: dotted;
+    border-radius: 1000px;
+    width:60px ;
+    display: inline-block; */
+    border-bottom: 10px dotted #05386b;
+    width: 200px;
+    display: inline-block;
+}
+
+
+
+.sgst-h1{
+    font-family: 'Pacifico',cursive;
+    text-decoration: underline;
+    font-size: 70px;
+    padding: 120px 0 0 0;
+    
+}
+
+
+
+
+
+/* comment css start */
+.navbar-fixed-top.scrolled {
+    background-color: #fff !important;
+    transition: background-color 200ms linear;
+  }
+
+  .carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 60px;
+  width: 60px;
+  /* outline: black; */
+  background-size: 50%, 50%;
+  /* border-radius: 70%; */
+  /* border: 1px solid black; */
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+    padding:7px 20px 4px 25px; 
+  content: '>';
+  outline: black;
+  border: 1px solid black;
+  border-radius: 50%;
+  font-size: 55px;
+  color: rgb(0, 0, 0);
+  background-color: #3feee6;
+}
+
+.carousel-control-prev-icon:after {
+    padding:4px 25px 4px 20px;
+  content: '<';
+  outline: black;
+  border: 1px solid black;
+  border-radius: 50%;
+  font-size: 55px;
+  color: rgb(0, 0, 0);
+  background-color: #3feee6;
+
+}
